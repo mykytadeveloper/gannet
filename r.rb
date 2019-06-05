@@ -19,3 +19,4 @@ puts 'Domains Contacts update ----'
 # Gandi::Domains::Contacts.update(api, domain, 'en', 'Paris', 'Bob', 'Doe', 75001, '', 'FR', '8 rue neuve', 'true', 'true', '+33.123456788', 'FR-J', 0, 'bob@example.org')
 puts 'Domains Glue list ----'
 Gandi::Domains::Glue.list(api, domain)
+a
